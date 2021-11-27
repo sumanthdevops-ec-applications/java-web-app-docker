@@ -18,8 +18,8 @@
 	</servlet>
 
 	<servlet-mapping>
-		<servlet-name>hello-dispatcher</servlet-name>
-		<url-pattern>/</url-pattern>
+		<servlet-name>ViewBookServlet</servlet-name>
+                <url-pattern>/view_book</url-pattern>
 	</servlet-mapping>
 
 	<!-- For root context -->
